@@ -1,0 +1,37 @@
+1 - História da linguagem
+
+É uma linguagem *interpretada*, significa que ela está sendo rodada em tempo real, ou seja, o código está sendo disponibilizado para você instantaneamente. Ele não precisou ser transformado em outra coisa antes de ser mandado para o browser..
+
+-é uma compilação em tempo real;
+-Não precisa esperar;
+- Você não se prende a apenas um paradigma da programação;
+
+
+web client-size - linguagem web, que o browser entende. Ele segue o padrão ECMAScript.
+
+-ECMAScript, conjunto de normas que vão dizer quais funcionalidades estão sendo lançadas naquela atualidade.
+
+2 - Evolução
+
+Criado em 1995, mas em 1997 ele começou a seguir o padrão ECMAScript.
+
+ECMAScript 1 - First edition;
+ECMAScript 2 - Editorial changes only;
+ECMAScript 3 - Regular Expressions.try/catch;
+ECMAScript 4 - nada realizado;
+ECMAScript 5 - suporte ao JSON, Array,isArray entre outas funções
+ECMAScript 6 - Diversas atualizações (muitas para citar em anotações simples)
+
+3 - Aplicações
+
+* Web
+* Mobile
+* Smartwatches
+* Games
+* Internet of things
+* APIs
+
+
+
+
+
